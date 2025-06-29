@@ -146,8 +146,6 @@ Berikut adalah versi yang sudah **dirapikan, diperbaiki format markdown-nya**, d
 
 ## 📸 Screenshot Tampilan
 
-## 📦 Fitur Tampilan Web
-
 ### 1. Halaman Login
 ![image](invoice/login.png)
 Form untuk user melakukan login ke sistem.
