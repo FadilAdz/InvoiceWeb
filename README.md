@@ -97,7 +97,7 @@ Berikut adalah versi yang sudah **dirapikan, diperbaiki format markdown-nya**, d
 
 1. **Clone atau Unduh Project**
    ```bash
-   git clone https://github.com/fakhriafifi14/invoice.git
+   git clone https://github.com/FadilAdz/InvoiceWeb.git
 ````
 
 2. **Letakkan Folder di XAMPP**
@@ -157,19 +157,4 @@ Berikut adalah versi yang sudah **dirapikan, diperbaiki format markdown-nya**, d
 * Jangan upload file konfigurasi atau kredensial ke repository publik untuk menjaga keamanan
 
 ---
-
-## 📬 Kontak Pengembang
-
-Dikembangkan oleh: **Fakhriafif**
-📧 Email: [fakhriafif788@email.com](mailto:fakhriafif788@email.com)
-
-🏫 Universitas Pelita Bangsa
-
----
-
-## 📄 Lisensi
-
-Proyek ini bersifat open-source dan bebas digunakan untuk keperluan pembelajaran serta pengembangan. Mohon mencantumkan nama pengembang jika digunakan secara publik atau dikomersialkan.
-
-```
 
