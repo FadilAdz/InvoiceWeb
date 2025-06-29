@@ -146,10 +146,6 @@ Berikut adalah versi yang sudah **dirapikan, diperbaiki format markdown-nya**, d
 
 ## 📸 Screenshot Tampilan
 
-# Invoice Management System
-
-Sistem ini adalah aplikasi sederhana untuk mengelola data invoice, customer, produk, dan user berbasis web.
-
 ## 📦 Fitur Tampilan Web
 
 ### 1. Halaman Login
