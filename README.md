@@ -153,21 +153,27 @@ Sistem ini adalah aplikasi sederhana untuk mengelola data invoice, customer, pro
 ## 📦 Fitur Tampilan Web
 
 ### 1. Halaman Login
+![image](invoice/login.png)
 Form untuk user melakukan login ke sistem.
 
 ### 2. Halaman Dashboard
+![image](invoice/dashbord.png)
 Tampilan utama setelah login berisi ringkasan data dan navigasi ke menu lainnya.
 
 ### 3. Invoice List
+![image](invoice/invoice.png)
 Menu untuk melihat daftar seluruh invoice yang telah dibuat.
 
 ### 4. Customer List
+![image](invoice/customer.png)
 Menu untuk melihat dan mengelola daftar customer.
 
 ### 5. Product List
+![image](invoice/produk.png)
 Menu untuk melihat dan mengelola daftar produk.
 
 ### 6. User List
+![image](invoice/user.png)
 Menu untuk melihat dan mengelola daftar user yang memiliki akses ke sistem.
 
 ---
