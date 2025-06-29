@@ -146,7 +146,29 @@ Berikut adalah versi yang sudah **dirapikan, diperbaiki format markdown-nya**, d
 
 ## 📸 Screenshot Tampilan
 
-> *(Tambahkan screenshot jika ada. Misalnya: halaman login, dashboard, daftar invoice, dsb.)*
+# Invoice Management System
+
+Sistem ini adalah aplikasi sederhana untuk mengelola data invoice, customer, produk, dan user berbasis web.
+
+## 📦 Fitur Tampilan Web
+
+### 1. Halaman Login
+Form untuk user melakukan login ke sistem.
+
+### 2. Halaman Dashboard
+Tampilan utama setelah login berisi ringkasan data dan navigasi ke menu lainnya.
+
+### 3. Invoice List
+Menu untuk melihat daftar seluruh invoice yang telah dibuat.
+
+### 4. Customer List
+Menu untuk melihat dan mengelola daftar customer.
+
+### 5. Product List
+Menu untuk melihat dan mengelola daftar produk.
+
+### 6. User List
+Menu untuk melihat dan mengelola daftar user yang memiliki akses ke sistem.
 
 ---
 
