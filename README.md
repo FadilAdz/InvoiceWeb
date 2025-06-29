@@ -1,11 +1,11 @@
-**Mata Kuliah:** Pemrograman Web 2
 
 | Field     | Data                          |
 | --------- | ----------------------------- |
-| **NIM**   | 312310632                     |
-| **Nama**  | Fakhri Afif                   |
+| **NIM**   | 312310617                     |
+| **Nama**  | Fadil Aditya Adzima                   |
 | **Kelas** | TI.23.A6                      |
 | **Dosen** | Agung Nugroho, S.Kom., M.Kom. |
+| **Mata Kuliah** | Pemrograman Web 2 |
 
 ---
 
