@@ -1,11 +1,11 @@
 
-| Field     | Data                          |
+| Profile     | Anggota                     |
 | --------- | ----------------------------- |
-| **NIM**   | 312310617                     |
-| **Nama**  | Fadil Aditya Adzima                   |
-| **Kelas** | TI.23.A6                      |
-| **Dosen** | Agung Nugroho, S.Kom., M.Kom. |
-| **Mata Kuliah** | Pemrograman Web 2 |
+| **312310632** | Fakhri Afif Muhaimin      |
+| **312blabla** | Taufik Hidayat            |
+| **312310617** | Fadil Aditya Adzima       |
+| **312310608** | Habib Suprayoga           |
+| **Mata Kuliah** | Pemrograman Web 2       |
 
 ---
 
