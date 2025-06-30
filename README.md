@@ -1,4 +1,6 @@
 # $${\color{lightblue}InvoiceWeb}$$
+InvoiceWeb adalah Invoice Management System berbasis web yang dikembangkan menggunakan PHP, MySQL, JavaScript, CSS, dan framework Bootstrap 3.3, dirancang untuk membantu pelaku usaha kecil dan menengah (UKM) dalam mengelola transaksi penjualan secara efisien dengan fitur: autentikasi (login/logout dan role admin), manajemen pelanggan dan produk (CRUD dengan database MySQL), pembuatan dan pencetakan invoice.
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br> <br>
