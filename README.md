@@ -2,10 +2,15 @@
 | Profile     | Anggota                     |
 | --------- | ----------------------------- |
 | **312310632** | Fakhri Afif Muhaimin      |
-| **312blabla** | Taufik Hidayat            |
+| **312310576** | Taufik Hidayat            |
 | **312310617** | Fadil Aditya Adzima       |
 | **312310608** | Habib Suprayoga           |
-| **Mata Kuliah** | Pemrograman Web 2       |
+
+<br>
+
+| Mata Kuliah     | Dosen Pengampu                     |
+| --------- | ----------------------------- |
+| **Pemrograman Web 2** | Agung Nugroho S.kom., M.Kom.      |
 
 ---
 
