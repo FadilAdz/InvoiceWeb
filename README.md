@@ -65,8 +65,6 @@ Invoice Management System ini hadir sebagai solusi digital sederhana yang dapat 
 
 ---
 
-## 📁 Struktur Folder
-
 ```
 
 ## 📁 Struktur Folder
